@@ -26,3 +26,11 @@ console.log("using function:" + arr);
 const num2 = [12, 1, 5, 57, 98, 45, 68, 48, 45, 68, 2, 6];
 const largest = Math.max(...num2);
 console.log("In built function:"+largest);
+
+
+
+// -----------------------------------------------------------------------
+//OUTPUT:
+// Using for Loop:98
+// using function:98
+// In build function:98
